@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lzdidiv's Page
 
 You can use the [editor on GitHub](https://github.com/lzdidiv/lzdidiv.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
