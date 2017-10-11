@@ -1,8 +1,8 @@
 ## Welcome to Lzdidiv's Page
 
-You can use the [editor on GitHub](https://github.com/lzdidiv/lzdidiv.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a game developer in a Mobile Game development company in China, I use Unity Engine to develop games.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you want to communicate with me, please draw a letter to my e-mail : lzdidiv@gmail.com.
 
 ### Markdown
 
